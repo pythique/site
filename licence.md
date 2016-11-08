@@ -1,1 +1,1 @@
-on va prendre une licence MIT
+on va prendre une licence APACHE
