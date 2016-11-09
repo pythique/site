@@ -7,3 +7,4 @@ Faire rencontrer les animaux et surtout leurs maîtres.
 - US1
 - US3
 - US2
+- page d'accueil
