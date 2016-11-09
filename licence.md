@@ -1,1 +1,2 @@
-on va prendre une licence APACHE
+MIT
+Apache
